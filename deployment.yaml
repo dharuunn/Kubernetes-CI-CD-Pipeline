@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: shopping-calculator
-        image: juicedabba/shopping-calculator:v2
+        image: juicedabba/shopping-calculator:v1
         ports:
         - containerPort: 80
 
