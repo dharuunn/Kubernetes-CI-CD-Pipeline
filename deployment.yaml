@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: shopping-calculator
-        image: yourdockerhubusername/shopping-calculator:v1
+        image: juicedabba/shopping-calculator:v2
         ports:
         - containerPort: 80
 
